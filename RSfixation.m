@@ -1,4 +1,4 @@
-% by Ke Jia
+% By Yuan
 % 2022/11/07 14:26
 % fixations for resting state fmri
 
